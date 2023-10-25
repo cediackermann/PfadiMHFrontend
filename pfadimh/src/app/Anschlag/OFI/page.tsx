@@ -14,7 +14,7 @@ export default function MyCard() {
       <Header />
       <div className="p-10 flex justify-center bg-licorice">
         <div className="grid grid-cols-1 md:w-[768px] sm:grid-cols-3 gap-8">
-          <Card className="w-full sm:col-span-2 bg-livorice">
+          <Card className="w-full sm:col-span-2">
             <CardHeader>
               <h3 className="text-3xl font-bold text-gamboge">
                 Unsere nächste Aktivität.
